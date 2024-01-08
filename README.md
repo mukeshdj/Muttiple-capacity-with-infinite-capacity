@@ -18,12 +18,16 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/mukeshdj/Muttiple-capacity-with-infinite-capacity/assets/155506353/b4ad7315-1c48-4189-bc60-8e07a970e524)
 
 
 ## Program
+![image](https://github.com/mukeshdj/Muttiple-capacity-with-infinite-capacity/assets/155506353/0b02fc44-78ab-4ea1-a21b-32e93d391955)
 
 
 ## Output :
+![image](https://github.com/mukeshdj/Muttiple-capacity-with-infinite-capacity/assets/155506353/bed5042e-67db-4f35-a32b-a04093008818)
 
 ## Result : 
+![image](https://github.com/mukeshdj/Muttiple-capacity-with-infinite-capacity/assets/155506353/e10207c6-ad3a-45cc-9747-17a42245d8c0)
 
